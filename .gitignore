@@ -1,0 +1,4 @@
+.venv/
+ppdfdl.egg-info/
+__pycache__/
+*.pyc
